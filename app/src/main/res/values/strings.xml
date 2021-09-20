@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="enter_your_email_address">Enter Your Email Address</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="enter_your_feedback_query_here">Enter Your Feedback/Query here:</string>
+    <string name="enter_your_full_name">Enter Your Full Name</string>
+</resources>
